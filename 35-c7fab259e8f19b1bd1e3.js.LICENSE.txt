@@ -1,0 +1,202 @@
+/*!
+ * @pixi/canvas-display - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-display is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/canvas-extract - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-extract is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/canvas-graphics - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-graphics is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/canvas-particles - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-particles is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/canvas-prepare - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-prepare is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/canvas-sprite - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-sprite is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/canvas-sprite-tiling - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-sprite-tiling is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/canvas-text - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/canvas-text is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/constants - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/constants is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/display - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/display is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/extract - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/extract is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/filter-alpha - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/filter-alpha is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/filter-displacement - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/filter-displacement is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/loaders - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/loaders is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/math - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/math is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/mixin-get-child-by-name - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/mixin-get-child-by-name is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/mixin-get-global-position - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/mixin-get-global-position is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/polyfill - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/polyfill is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/prepare - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/prepare is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/runner - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/runner is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/settings - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/settings is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/ticker - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/ticker is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/utils - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * @pixi/utils is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * pixi.js-legacy - v5.2.1
+ * Compiled Tue, 28 Jan 2020 23:33:11 UTC
+ *
+ * pixi.js-legacy is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * resource-loader - v3.0.1
+ * https://github.com/pixijs/pixi-sound
+ * Compiled Tue, 02 Jul 2019 14:06:18 UTC
+ *
+ * resource-loader is licensed under the MIT license.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
